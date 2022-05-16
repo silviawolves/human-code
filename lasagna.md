@@ -18,6 +18,7 @@
 
 - Preparare e doso gli ingredienti della ricetta
 - Preparare gli strumenti per eseguire la ricetta
+- Preriscaldare il forno a 170 gradi
 
 - Iniziare con la preparazione della Lasagna
     - Preparare il Ragù
@@ -64,8 +65,17 @@
             - ALTRIMENTI (sotto i 2mm)
                 - tornare a stendere la pasta
 
-    - Assemblare Lasagna
+    - Assemblare Lasagna, ripetere per cinque volte
+        - mettere uno strato di ragù
+        - mettere uno strato di bescimella
+        - mettere uno strato di pasta
+    - aggiungere parmigiano e burro coprendo la pasta
 
     - Infornare la Lasagna
+        - SE il forno è a temperatura
+            - informare la Lasagna
+        - ALTRIMENTI
+            - attendere la temperatura
+            - infornare la Lasagna
 
     - Mangiare la lasagna e chiamare Glovo perché non sono come quelle della nonna
