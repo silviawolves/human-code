@@ -22,14 +22,20 @@
 - Inizio con la preparazione della Lasagna
     - Preparo il Ragù
         - Metto in cottura il soffritto
-        - SE il soffritto è cotto
-            - aggiungo la carne precedentemente tagliata
-                - SE la carne è rosolata
-                    - aggiungo la passata di pomodoro e le spezie
-                        - SE il ragù è salato
-                            - proseguo con le altre preparazioni
-                        - ALTRIMENTI
-                            - aggiusto di sale
+            - SE il soffritto è cotto (vero)
+                - aggiungo la carne precedentemente tagliata
+            - ALTRIMENTI (falso)
+                - attendo (finché non è vero)
+
+                    - SE la carne è cotta (vero)
+                        - aggiungo la passata di pomodoro e le spezie
+                    - ALTRIMENTI (falso)
+                        - attendo (finché non è vero)
+
+                            - SE il ragù è salato (vero)
+                                - proseguo con le altre preparazioni
+                            - ALTRIMENTI (falso)
+                                - aggiusto di spezie (finché non è vero)
 
     - Preparo la pasta per le Lasagne
 
