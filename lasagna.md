@@ -52,4 +52,20 @@
                     - ALTRIMENTI
                         - aggiungere gli ingredienti necessari fino a raggiungere la consistenza
 
+    - Stendere la pasta
+        - togliere l'impasto dal frigo
+        - infarinare il piano di lavoro
+        - stendere la pasta
+            - SE la pasta ha raggiunto i 2mm
+                - tagliare la pasta
+            - ALTRIMENTI
+                - applicare più pressione
+                - continuare a stendere
+            - ALTRIMENTI (sotto i 2mm)
+                - tornare a stendere la pasta
+
     - Assemblare Lasagna
+
+    - Infornare la Lasagna
+
+    - Mangiare la lasagna e chiamare Glovo perché non sono come quelle della nonna
