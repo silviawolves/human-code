@@ -1,44 +1,55 @@
 # preparare le lasagne alla bolognese della nonna
 
-- Prendo la Ricetta della Nonna
-- Controllo gli ingredienti
-- Scrivo la Lista degli Ingredienti
+- Prendere la Ricetta della Nonna
+- Controllare gli ingredienti
+- Scrivere la Lista degli Ingredienti
 
-- Controllo ogni singolo ingrediente sulla Lista degli Ingredienti, fino ad esaurimento
-    - SE possiedo l'ingrediente
-        - spunto l'ingrediente sulla lista
-        - proseguo il controllo per tutti gli ingredienti
+- Controllare ogni singolo ingrediente sulla Lista degli Ingredienti, fino ad esaurimento
+    - SE si possiede l'ingrediente
+        - spuntare l'ingrediente sulla lista
+        - proseguire il controllo per tutti gli ingredienti
     - ALTRIMENTI se rimangono ingredienti non spuntati
-        - li inserisco nella Lista della Spesa
-        - proseguo il controllo per tutti gli ingredienti
+        - inserirli nella Lista della Spesa
+        - proseguire il controllo per tutti gli ingredienti
 
 - SE la Lista della Spesa contiene elementi
-    - esco a comprarli al supermercato
-- ALTRIMENTI proseguiamo con la preparazione della ricetta
+    - uscire a comprarli al supermercato
+- ALTRIMENTI proseguire con la preparazione della ricetta
 
-- Preparo e doso gli ingredienti della ricetta
-- Preparo gli strumenti per eseguire la ricetta
+- Preparare e doso gli ingredienti della ricetta
+- Preparare gli strumenti per eseguire la ricetta
 
-- Inizio con la preparazione della Lasagna
-    - Preparo il Ragù
-        - Metto in cottura il soffritto
+- Iniziare con la preparazione della Lasagna
+    - Preparare il Ragù
+        - mettere in cottura il soffritto
             - SE il soffritto è cotto (vero)
-                - aggiungo la carne precedentemente tagliata
+                - aggiungere la carne precedentemente tagliata
             - ALTRIMENTI (falso)
-                - attendo (finché non è vero)
+                - attendere (finché non è vero)
 
                     - SE la carne è cotta (vero)
-                        - aggiungo la passata di pomodoro e le spezie
+                        - aggiungere la passata di pomodoro e le spezie
+                        - completare la cottura del ragù
                     - ALTRIMENTI (falso)
-                        - attendo (finché non è vero)
+                        - attendere (finché non è vero)
 
-                            - SE il ragù è salato (vero)
-                                - proseguo con le altre preparazioni
-                            - ALTRIMENTI (falso)
-                                - aggiusto di spezie (finché non è vero)
+    - Preparare la pasta per le Lasagne
+        - cuocere gli spinaci
+            - SE cotti E asciugati (x E y vero)
+                - frullare gli spinaci
+                - aggiungere farina e uova
+                - impastare
+                - lasciare riposare
 
-    - Preparo la pasta per le Lasagne
+    - Preparare la Besciamella
+        - aggiungere il burro in un tegame
+            - SE il burro è fuso (vero)
+                - aggiungere la farina
+                - aggiungere il latte, la noce moscata ed il sale
+                - mescolare
+                    - SE raggiunta la consistenza desiderata
+                        - spegnere il fuoco
+                    - ALTRIMENTI
+                        - aggiungere gli ingredienti necessari fino a raggiungere la consistenza
 
-    - Preparo la Besciamella
-
-    - Assemblaggio Lasagna
+    - Assemblare Lasagna
